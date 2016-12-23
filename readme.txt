@@ -1,1 +1,2 @@
-这是一个GIT版本控制服务
+Git is a distributed version control system.
+Git is free software.
